@@ -63,10 +63,10 @@ export default function SignIn() {
   }
 
   if (initializing) {
-    return <h1>Application Loading </h1>
+    return <h2>Application Loading </h2>
   }
   if (signInInProgress) {
-    return <h1>Signing in progress</h1>
+    return <h2>Signing in progress</h2>
   }
 
   return (
