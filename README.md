@@ -62,7 +62,7 @@ Deployed Amplify Application URL is :- https://main.d2u7wtbz02fm6v.amplifyapp.co
 
 Source Code URL is :- https://github.com/akshayj28/nextjs-client-signin-logic/tree/main
 
-README.MD file URL is :- 
+README.MD file URL is :- https://github.com/AkshayJ28/nextjs-client-signin-logic/blob/main/README.md
 
 
 
